@@ -107,7 +107,7 @@ wbt.resample(
 wbt.reclass(
     i = "_0601_lc_mama.tif", 
     output = "_0612_lc_suitability.tif", 
-    reclass_vals = "0;1;10;2;5;3;10;4;0;5;0;6;0;7;0;8;0;9;0;10", 
+    reclass_vals = "0;1;10;2;0;3;5;4;10;5;0;6;0;7;0;8;0;9;0;10", 
     assign_mode=True
 )
 
